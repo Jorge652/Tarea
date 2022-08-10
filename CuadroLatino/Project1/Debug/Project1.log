@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\Jimena\Documents\ESCANEADOS\ESPE\3Semestre\Estruc-Datos\Programas\CuadroLatino\Project1\main.cpp(15,61): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=double
+          ]
+  Project1.vcxproj -> C:\Users\Jimena\Documents\ESCANEADOS\ESPE\3Semestre\Estruc-Datos\Programas\CuadroLatino\Project1\Debug\Project1.exe
