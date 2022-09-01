@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1661929748 source:d:\graficasnotacionbigo\graficas\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+
+1661950227 source:c:\users\dell\downloads\graficas\main.cpp
+	<iostream>
+	"Operaciones.cpp"
+
+1661950272 c:\users\dell\downloads\graficas\operaciones.cpp
+	<iostream>
+	"Operaciones.h"
+	<fstream>
+	<math.h>
+
+1661950191 c:\users\dell\downloads\graficas\operaciones.h
+
